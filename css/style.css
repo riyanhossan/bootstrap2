@@ -1,0 +1,38 @@
+.nav{
+	background-image: url('../img/background.jpg');
+}
+.my-st-row{
+	padding: 20px 0px;
+}
+.my-logo{
+	padding-top: 14px;
+}
+.my-nav{
+	background-color: transparent!important;
+}
+.my-item{
+	padding-right: 25px;
+	display: inline-block;
+}
+.my-ul{
+	text-align: right!important;
+}
+.my-item a{
+	font-size: 13px;
+	color: #fff!important;
+}
+.my-button-search{
+	border-radius: 25px;
+}
+.my-button-search-bar{
+	border: 1px solid silver;
+	border-radius: 25px;
+	padding: 5px 10px;
+}
+.my-nd-row{
+	text-align: right;
+}
+.my-nd-row h1{
+	color: #fff;
+	font-weight: 400;
+}
